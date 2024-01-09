@@ -1,4 +1,4 @@
-#Data-Driven-Insights-Analyzing-Advertisement-Engagement
+# Data-Driven-Insights-Analyzing-Advertisement-Engagement
 In my role as a Data Analyst, I undertook a project focused on advertisement analytics without specific brand affiliation. The dataset, origin unknown, centered around ad interactions, employing Python for Exploratory Data Analysis (EDA) and Tableau for visualization.
 
 Through Python, I conducted a thorough EDA, extracting valuable insights into user engagement, click-through rates, and ad performance. Utilizing Tableau, I translated these findings into visually impactful dashboards.
