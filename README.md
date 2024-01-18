@@ -8,4 +8,5 @@ The project's climax was a concise presentation to a Consumer Insight Specialist
 
 
 
+<img width="612" alt="BubblePlot" src="https://github.com/TommasoGuasti1/Data-Driven-Insights-Analyzing-Advertisement-Engagement/assets/155632465/13ceef08-91ec-4328-805f-cab724885b0d">
 
